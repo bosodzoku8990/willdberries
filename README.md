@@ -1,8 +1,8 @@
 # willdberries - учебный проект
-Языки:
+## Языки:
 - HTML
 - CSS
 - JavaScript
-Библиотеки:
+### Библиотеки:
 - Bootstrap v5
 - Swiper Slider JS
